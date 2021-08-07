@@ -17,6 +17,7 @@ public class Q1 {
         System.out.println("j:" + j); //1
         System.out.println("hot-fix modified");
         System.out.println("xixi");
+        System.out.println("haha");
         System.out.println("k:" + k); //11
     }
 
