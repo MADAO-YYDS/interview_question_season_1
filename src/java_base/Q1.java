@@ -15,6 +15,7 @@ public class Q1 {
         int k = i + ++i * i++;
         System.out.println("i:" + i); //此时i为4
         System.out.println("j:" + j); //1
+        System.out.println("hot-fix modified");
         System.out.println("k:" + k); //11
     }
 
