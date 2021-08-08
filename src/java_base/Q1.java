@@ -16,6 +16,7 @@ public class Q1 {
         System.out.println("i:" + i); //此时i为4
         System.out.println("j:" + j); //1
         System.out.println("k:" + k); //11
+        System.out.println("test pull");
     }
 
 }
